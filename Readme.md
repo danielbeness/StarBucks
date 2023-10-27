@@ -1,0 +1,1 @@
+Uma Landing Page Não resposiva usando apenas html e css, apenas para treinar algumas propriedades.
