@@ -93,3 +93,11 @@ section.sobre{
     cursor: pointer;
     font-size: 20px;
  }
+
+ .imagens-tipos{
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 180px;
+   
+ }
